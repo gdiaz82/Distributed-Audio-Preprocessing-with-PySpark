@@ -1,0 +1,10 @@
+datos_audio/
+
+__pycache__/
+*.pyc
+
+.venv/
+env/
+
+derby.log
+metastore_db/
