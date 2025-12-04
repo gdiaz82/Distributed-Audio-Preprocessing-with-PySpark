@@ -44,7 +44,7 @@ python spark_pipeline.py
 3. Expected Output
 The job provides a summary of the processed batch:
 
-```mermaid
+```bash
 Pipeline Report:
 ========================================
 Files successfully processed: 60
